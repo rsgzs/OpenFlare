@@ -5,7 +5,7 @@
 **新一代分布式反向代理与边缘安全网关**  
 *Next-Gen Distributed Reverse Proxy & Edge Gateway for OpenResty / Nginx*
 
-**[简体中文](./README.zh-CN.md) | [English](./README.md)**
+**[简体中文](./README.md) | [English](./README-EN.md)**
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/Rain-kl/OpenFlare/main/LICENSE">
